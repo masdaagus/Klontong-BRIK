@@ -1,0 +1,21 @@
+{
+  "window.zoomLevel": -0.6,
+  "editor.fontSize": 12.5,
+  "editor.guides.bracketPairs": true,
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#DFBB9D",
+    "editorBracketHighlight.foreground2": "#00bbf9",
+    "list.warningForeground": "#9ea5b3f8",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
+  },
+  "files.exclude": {
+    "**/*.freezed.dart": true,
+    "**/*.g.dart": true
+  },
+  "editor.rulers": [],
+  "dart.lineLength": 2000,
+  "[dart]": {
+    "editor.rulers": []
+  },
+  "dart.runPubGetOnPubspecChanges": "never"
+}
